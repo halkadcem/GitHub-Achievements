@@ -267,7 +267,7 @@ https://enzifiri.me/
       
 <br>
   
-## After entering the information, click Register for the GitHub Developer Program and get your title
+## After entering the information, click Register for the GitHub. Developer Program and get your title
 
 ![image](https://user-images.githubusercontent.com/76253089/207735976-b677c8e2-92c0-4572-ba65-ec7b5cdf235d.png)
 
